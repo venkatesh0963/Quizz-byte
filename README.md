@@ -1,4 +1,4 @@
-# Quizz-byte
+# Quizz-byte..
 
 A full-stack, role-based quiz application built with the MERN stack (MongoDB, Express, React, Node.js) and Vite.
 
